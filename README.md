@@ -33,6 +33,7 @@
 
 ## Install dependencies   
 ```bash
+git clone https://github.com/huyletran/comer.git
 cd CoMER
 # install project   
 conda create -y -n CoMER python=3.7
